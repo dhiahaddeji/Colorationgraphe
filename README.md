@@ -27,7 +27,7 @@ Colorationgraphe/
 
 | Catégorie | Instance | Sommets | Arêtes |
 |-----------|----------|---------|--------|
-| small     | myciel3 | ~x | ~y |
+| small     | myciel3 | 11 | 20 |
 | medium    | le450_15a | 450 | ~8000 |
 | large     | DSJC1000.1 | 1000 | ~62000 |
 
